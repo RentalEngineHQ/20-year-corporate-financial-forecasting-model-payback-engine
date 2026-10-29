@@ -1,4 +1,4 @@
-# B2B 3-Statement Corporate Financial Forecasting Model & MACRS Tax Asset Engine (No Subscriptions)
+# Financial Forecasting Model & MACRS Tax Asset Engine (No Subscriptions)
 
 Corporate Operations Back-Office Dashboard & Standalone Management Engine
 
